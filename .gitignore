@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+*.py[cod]
+logs/
+vlog/
+models/
+results/
+data/
